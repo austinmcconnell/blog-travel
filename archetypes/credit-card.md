@@ -4,7 +4,7 @@ date: "{{ .Date }}"
 draft: true
 author: "Austin McConnell"
 tags: [""]
-categories: [""]
+categories: ["Credit Card"]
 menu: ""
 banner: ""
 ---
@@ -19,11 +19,11 @@ Annual Fee:
 
 Fee waived first year?:
 
-### Why did I get this card?
+## Card Benefits
 
 - 
 
 
-### Why am I keeping this card each year?
+## Keep or Cancel?
 
 - 
