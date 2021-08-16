@@ -5,7 +5,7 @@ author: "Austin McConnell"
 tags: ["Hyatt", "Reward Program"]
 categories: ["Loyalty Programs"]
 menu: ""
-banner: ""
+banner: "banners/Austin-at-Piazzale-Michelangelo-1018-460.jpeg"
 ---
 
 ## Why did I choose Hyatt as my main hotel chain?
@@ -24,3 +24,21 @@ Hyatt Status is considered one of the most valuable elite statuses. If you can g
 - Resort fees waived on award nights
 - Room upgrades (including suites)
 - Guest of Honor (share Globalist status with others)
+
+## Hyatt Brands
+
+- Alila
+- Andaz
+- Caption by Hyatt
+- Destination Hotels
+- Grand Hyatt
+- Hyatt Centric
+- Hyatt House
+- Hyatt Place
+- Hyatt Regency
+- Hyatt Zilara/Hyatt Ziva
+- Joie de Vivre
+- Miraval
+- Park Hyatt
+- The Unbound Collection by Hyatt
+- Thompson Hotels

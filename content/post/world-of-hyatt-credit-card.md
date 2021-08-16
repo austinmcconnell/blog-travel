@@ -5,7 +5,7 @@ author: "Austin McConnell"
 tags: ["Hyatt", "Credit Card"]
 categories: ["Loyalty Programs"]
 menu: ""
-banner: ""
+banner: "banners/visualsofdana-1018-460.jpeg"
 ---
 
 

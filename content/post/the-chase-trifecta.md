@@ -5,7 +5,7 @@ author: "Austin McConnell"
 tags: ["Chase Freedom", "Chase Freedom Unlimited", "Chase Sapphire Preferred"]
 categories: ["Foundation Strategy"]
 menu: ""
-banner: ""
+banner: "banners/vic-alcuaz-1018-460.jpeg"
 ---
 
 The foundation of my points earning strategy consists of three cards from chase. These cards allow me to earn between 1.5 and 5 points per dollar spent which translates into 3% to 15% of travel value per dollar spent.

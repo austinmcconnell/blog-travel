@@ -5,7 +5,7 @@ author: "Austin McConnell"
 tags: ["Sapphire", "Credit Card"]
 categories: ["Loyalty Programs"]
 menu: ""
-banner: ""
+banner: "banners/vojtech-bruzek-1018-460.jpeg"
 ---
 
 

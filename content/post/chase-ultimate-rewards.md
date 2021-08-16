@@ -5,7 +5,7 @@ author: "Austin McConnell"
 tags: ["Ultimate Rewards"]
 categories: ["Ultimate Rewards"]
 menu: ""
-banner: ""
+banner: "banners/the-anam-1018-460.jpeg"
 ---
 
 Rather than try to earn points in scattered loyalty programs across airlines and hotels, it's best to choose a single program and focus your efforts there. Focus your efforts and pool points in a single place and then transfer to hotels or airlines programs as and when needed.
