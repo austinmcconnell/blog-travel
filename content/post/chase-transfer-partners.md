@@ -9,6 +9,7 @@ banner: "banners/wayne-w-1080-460.jpeg"
 ---
 
 You can transfer Ultimate Rewards points at a 1:1 ratio to any of their 13 partners (10 airlines and 3 hotels)
+<!--more-->
 
 Airline Partners
 - British Airways<sup>*</sup>

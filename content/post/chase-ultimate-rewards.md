@@ -8,13 +8,15 @@ menu: ""
 banner: "banners/the-anam-1018-460.jpeg"
 ---
 
-Rather than try to earn points in scattered loyalty programs across airlines and hotels, it's best to choose a single program and focus your efforts there. Focus your efforts and pool points in a single place and then transfer to hotels or airlines programs as and when needed.
+Chase Ultimate Rewards is the single best award program for earning points to be used for travelling
+
+<!--more-->
+
+Rather than try to earn points in scattered loyalty programs across airlines and hotels, it's best to choose a single program and focus your efforts there. Collect points in a single account and then transfer to hotels or airlines programs as and when needed.
 
 Yes. As you level up your points game, there will come a time when it makes sense to start earning points in multiple programs. But to begin, I strongly recommend focusing on a single points program. The best single program to earn points that I've found is Chase Ultimate Rewards.
 
-### Chase Ultimate Rewards
 
-Chase Ultimate Rewards points are a highly valuable points that can be redeemed for travel in a couple key ways.
 
 ##### Ultimate Rewards Portal
 

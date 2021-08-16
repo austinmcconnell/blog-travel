@@ -8,6 +8,8 @@ menu: ""
 banner: "banners/vojtech-bruzek-1018-460.jpeg"
 ---
 
+Chase Sapphire Preferred is my anchor card around which I've built my foundational points earning strategy
+<!--more-->
 
 Issuer: Chase
 Annual Fee: $95

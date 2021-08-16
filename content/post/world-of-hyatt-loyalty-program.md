@@ -8,9 +8,9 @@ menu: ""
 banner: "banners/Austin-at-Piazzale-Michelangelo-1018-460.jpeg"
 ---
 
-## Why did I choose Hyatt as my main hotel chain?
-
 Standard award redemptions start at 5,000 points for a Category 1 hotel and go up to 40,000 points for a Category 8 hotel. Compared to other hotel brands, you can get incredibly good deals on rooms with Hyatt points.
+
+<!--more-->
 
 Hyatt points are generally valued at about 2.0 cents per point.
 

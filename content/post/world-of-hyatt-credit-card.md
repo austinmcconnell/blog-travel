@@ -8,6 +8,9 @@ menu: ""
 banner: "banners/visualsofdana-1018-460.jpeg"
 ---
 
+The World of Hyatt credit card is my primary hotel credit card
+
+<!--more-->
 
 Issuer: Chase
 Annual Fee: $95
