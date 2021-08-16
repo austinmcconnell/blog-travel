@@ -22,6 +22,9 @@ Waived First Year?: No
 - 1 free anniversary night each year (Category 1 - 4)
 - 1:1 transfer partner of Chase [Ultimate Rewards]({{< ref "chase-ultimate-rewards.md" >}}
 - Automatic World of Hyatt Discoverist status
+    - 5 Base Points per eligible dollar spend
+    - Resort fees waived on Free Night awards
+    - Complimentary internet
 - 2x points for rideshare, restaurants, airline tickets purchased directly, fitness clubs, and gym memberships
 - Earn an extra free night at any Category 1-4 Hyatt hotel or resort if you spend $15,000 in a calendar year
 - Receive 5 qualifying night credits toward your next tier status every year
