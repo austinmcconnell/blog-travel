@@ -21,7 +21,7 @@ Note: I product changed my original Chase Sapphire Preferred from 2013 to the Ch
 ## Card Benefits
 
 - 3x points on dining
-- 3x points on Drugstores
+- 3x points on drugstores
 - 1.5x points on all other purchases
 - 5x points on travel purchased through the Chase Travel Portal
 
